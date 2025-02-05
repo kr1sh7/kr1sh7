@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krish
-- 👀  I’m currently pursuing Btech in computer science engineering from Drs. Kiran and Pallavi Patel Global University ,Vadodara
+- 👀  I’m currently pursuing B.Tech in Computer Science and Engineering from Drs. Kiran and Pallavi Patel Global University ,Vadodara
 - 📫 How to reach me krishbhavsar101@gmail.com
 
 <!---
